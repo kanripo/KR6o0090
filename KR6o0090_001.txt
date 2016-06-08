@@ -6,7 +6,7 @@
 #+PROPERTY: SOURCE 卍 Xuzangjing Vol. 46, No. 775
 #+PROPERTY: VOL 46
 #+PROPERTY: BASEEDITION X
-#+PROPERTY: WITNESS master
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6o0090_X_001-0110a> 
 #+PROPERTY: JUAN 1
 
@@ -1238,7 +1238,7 @@
 
 一心一念生縛等者即下文云一切諸法唯依妄念¶
 而有差別若離心念則無一切境界之相謂此門中¶
-一切善惡都不思量自然能入而為行故達磨碑文¶
+一切善惡都不思量自然能入而為行故達磨[石*((白-日+田)/廾)]文¶
 云心有也矌劫而滯凡夫心無也剎那而登正覺又¶
 如清凉云欲了真如性須忘妄執情有心生死路無¶
 念涅槃城煩惱誰為主菩提尚假名不存分別見佛¶

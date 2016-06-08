@@ -6,7 +6,7 @@
 #+PROPERTY: SOURCE 卍 Xuzangjing Vol. 46, No. 775
 #+PROPERTY: VOL 46
 #+PROPERTY: BASEEDITION X
-#+PROPERTY: WITNESS master
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6o0090_X_003-0138a> ¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 3
 ¶
@@ -106,7 +106,7 @@
 隱子若出生時謂之顯子法準思之。¶
 
 譬如天網者謂網攝持諸物類故無明攝持諸煩惱¶
-故以無不攝故持言天故老氏云天網恢恢疎而不¶
+故以無不攝故持言天故老氏云天網[懨-猒+火][懨-猒+火]疎而不¶
 漏。
 <pb:KR6o0090_X_003-0139b>¶
 
